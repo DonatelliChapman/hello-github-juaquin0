@@ -1,2 +1,2 @@
-message = input("give me a message")
+message = input("give me a message: ")
 print(message)
